@@ -8,8 +8,6 @@ public class Test1 {
     public static int element = 5;
     public static void main(String[] args) {
         int a = binarySearch(array, element);
-        if (a >= 0) {
-            System.out.println(true);
-        } else System.out.println(false);
+
     }
 }
