@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Scanner;
-
 import static java.util.Arrays.binarySearch;
 
 public class Test1 {
